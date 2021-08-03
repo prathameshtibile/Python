@@ -8,6 +8,4 @@
 
 **File Handling
 
-**Using Logging
-
 **Using CRUD Operating in MSQL & Pycharm
